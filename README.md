@@ -29,12 +29,15 @@ The dataset includes:
 
 ✅ Interactive Filters
 
+
 Month
 
 Category
 
 Channel
+
 ✅ KPI Metrics
+
 
 Total Sales
 
@@ -43,6 +46,7 @@ Total Orders
 Average Order Value (AOV)
 
 ✅ Visualizations
+
 
 Orders vs Sales (Bar Chart)
 
