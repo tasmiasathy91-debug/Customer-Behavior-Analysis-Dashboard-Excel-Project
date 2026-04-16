@@ -17,12 +17,5 @@ Basic KPI Calculations
 
 The dataset includes:
 
-Column Name   Description
-Order ID      Unique order identifier
-Amount	      Sales value
-Gender	      Customer gender
-Age	          Customer age
-State	        Customer location
-Category	    Product category
-Channel	      Sales platform
-Order Status	Delivered/Returned/Cancelled
+<img width="784" height="571" alt="image" src="https://github.com/user-attachments/assets/c3bdf451-6e13-4378-8949-8fb20f252cf3" />
+
