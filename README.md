@@ -59,3 +59,24 @@ Top 5 States by Sales
 Orders by Age & Gender
 
 Sales by Channel
+
+
+# 🔷 How to Use the Dashboard
+
+Open the Excel file
+
+Use slicers to filter:
+
+Month
+
+Category
+
+Channel
+
+Analyze trends across:
+
+Customer segments
+
+Sales channels
+
+Regions
