@@ -7,11 +7,17 @@ This project presents an interactive Customer Behavior Analysis Dashboard built 
 The goal is to transform raw transactional data into actionable business insights for decision-making.
 
 🔷 Tools & Skills Used
+
 Microsoft Excel
+
 Pivot Tables & Pivot Charts
+
 Slicers (Interactive Filters)
+
 Data Cleaning (TRIM, IF, IFERROR)
+
 Basic KPI Calculations
+
 
 🔷 Dataset Description
 
