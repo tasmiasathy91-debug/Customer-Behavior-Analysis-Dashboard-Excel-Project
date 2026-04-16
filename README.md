@@ -25,3 +25,33 @@ The dataset includes:
 
 <img width="784" height="571" alt="image" src="https://github.com/user-attachments/assets/c3bdf451-6e13-4378-8949-8fb20f252cf3" />
 
+# 🔷 Key Features of Dashboard
+
+✅ Interactive Filters
+
+Month
+
+Category
+
+Channel
+✅ KPI Metrics
+
+Total Sales
+
+Total Orders
+
+Average Order Value (AOV)
+
+✅ Visualizations
+
+Orders vs Sales (Bar Chart)
+
+Sales by Gender (Pie Chart)
+
+Order Status Distribution
+
+Top 5 States by Sales
+
+Orders by Age & Gender
+
+Sales by Channel
